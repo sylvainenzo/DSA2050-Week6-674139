@@ -1,6 +1,6 @@
 # DSA 2050 – Week 6 Guided Lab: Regression and Baseline Comparison
 
-**Student Name:** Sylvain Enzo Biket_Nkot
+**Student Name:** Sylvain Enzo Biket Nkot
 **Student ID:** 674139
 
 ---
